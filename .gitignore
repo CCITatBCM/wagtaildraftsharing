@@ -73,3 +73,8 @@ dist/
 
 # IDEs
 .idea/
+
+# Environments
+.venv
+venv/
+ENV/
